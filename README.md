@@ -26,6 +26,7 @@ Launch a Directory Traversal attack! Run attack.js on directories to see what's 
 ### "attack.sh" - Traversal script built to probe hidden directories:
 <img src="https://github.com/user-attachments/assets/0ac4509d-5db8-4589-85b0-b1f6bafec5a1" width="600"/>
 
+---
 ### "server.pcapng" analysis - Viewing file access through Wireshark:
 <img src="https://github.com/user-attachments/assets/c1a05b17-d3e0-4472-a98d-132397ac8eb5" width="600"/>
 
